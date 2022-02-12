@@ -2,6 +2,10 @@
 @section('content')
 <div class="row justify-content-center">
     <div class="col-md-8">
+    <div class="alert alert-light" role="alert">
+        <p>Username : admin@admin.com</p>
+        <p>Password : password</p>
+    </div>
         <div class="card-group">
             <div class="card p-4">
                 <div class="card-body">
